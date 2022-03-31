@@ -59,10 +59,14 @@
 Este guia/links/tutoriais foi feito para ajudar você a estudar e trabalhar de uma forma melhor! Se você tiver links novos, entre em contato comigo nos links abaixo, para que possamos adicionar e assim ajudar novas pessoas.
 <br />
 
-🔖 Me segue no Instagram: https://www.instagram.com/programador.cs/ 👨🏻‍💻 <br>
-🔖 Conecta lá no meu Linkedin: https://www.linkedin.com/in/cassianos/ 🦄 <br>
+🔖 Me segue no Instagram: https://www.instagram.com/programador.cs/ 👨🏻‍💻
+<br />
+🔖 Conecta lá no meu Linkedin: https://www.linkedin.com/in/cassianos/ 🦄
+<br />
 
-♻️ Segue meu Github , deixa sua estrela(star) no repositório, compartilha com seus amigos, e por fim, bons estudos ou bom trabalho, faça bom uso!! ♻️ <br>
+Espero que você tenha um bom proveito com o conteúdo aqui, segue meu github, compartilhe com seus amigos, deixe sua estrela(star) no repositório, estude o máximo que você puder e faça um bom uso!
+
+<br />
 
 ## 📚 ÍNDICE
 
