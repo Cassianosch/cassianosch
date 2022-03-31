@@ -56,11 +56,8 @@
 
 ## 📚 GUIA DE CURSOS E RECURSOS PARA PROGRAMAÇÃO
 
-⚠️ AVISO IMPORTANTE ⚠️
-
-🌟 Este é um guia para ajudar você a estudar melhor trabalhar melhor !!! Caso queira me ajudar você pode me enviar novos links para análise de forma a manter a qualidade: 🌟 <br>
-
-👇 Sentiu vontade de ajudar ?, segue o guia abaixo 👇 <br>
+Este guia/links/tutoriais foi feito para ajudar você a estudar e trabalhar de uma forma melhor! Se você tiver links novos, entre em contato comigo nos links abaixo, para que possamos adicionar e assim ajudar novas pessoas.
+<br />
 
 🔖 Me segue no Instagram: https://www.instagram.com/programador.cs/ 👨🏻‍💻 <br>
 🔖 Conecta lá no meu Linkedin: https://www.linkedin.com/in/cassianos/ 🦄 <br>
